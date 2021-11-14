@@ -1,1 +1,1 @@
-# Face-Recognition-using-KNN
+# Face-Recognition
